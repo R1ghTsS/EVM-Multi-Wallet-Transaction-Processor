@@ -1,0 +1,111 @@
+[
+    {
+      "name": "Arbitrum Mainnet",
+      "rpc": [
+        "https://arbitrum.llamarpc.com",
+        "https://1rpc.io/arb",
+        "https://rpc.ankr.com/arbitrum"
+      ],
+      "chainId": 42161,
+      "symbol": "ETH",
+      "explorer": "https://arbiscan.io/tx/"
+    },
+    {
+      "name": "Base Mainnet",
+      "rpc": [
+        "https://base-pokt.nodies.app",
+        "https://base.gateway.tenderly.co",
+        "https://base.llamarpc.com"
+      ],
+      "chainId": 8453,
+      "symbol": "ETH",
+      "explorer": "https://basescan.org/tx/"
+    },
+    {
+      "name": "BSC Mainnet",
+      "rpc": [
+        "https://binance.llamarpc.com",
+        "https://rpc.ankr.com/bsc",
+        "https://0xrpc.io/bnb"
+      ],
+      "chainId": 56,
+      "symbol": "BNB",
+      "explorer": "https://bscscan.com/tx/"
+    },
+    {
+      "name": "BSC Testnet",
+      "rpc": [
+        "https://data-seed-prebsc-1-s1.binance.org:8545",
+        "https://data-seed-prebsc-2-s2.binance.org:8545",
+        "https://bsc-testnet.publicnode.com"
+      ],
+      "chainId": 97,
+      "symbol": "tBNB",
+      "explorer": "https://testnet.bscscan.com/tx/"
+    },
+    {
+      "name": "Ethereum Mainnet",
+      "rpc": [
+        "https://eth.llamarpc.com",
+        "https://rpc.ankr.com/eth",
+        "https://ethereum.publicnode.com"
+      ],
+      "chainId": 1,
+      "symbol": "ETH",
+      "explorer": "https://etherscan.io/tx/"
+    },
+    {
+      "name": "Gravity Alpha Mainnet",
+      "rpc": [
+        "https://rpc.ankr.com/gravity",
+        "https://rpc.gravity.xyz"
+      ],
+      "chainId": 1625,
+      "symbol": "G",
+      "explorer": "https://explorer.gravity.xyz/tx/"
+    },
+    {
+      "name": "Linea Mainnet",
+      "rpc": [
+        "https://rpc.linea.build",
+        "https://1rpc.io/linea",
+        "https://linea-rpc.publicnode.com"
+      ],
+      "chainId": 59144,
+      "symbol": "ETH",
+      "explorer": "https://lineascan.build/tx/"
+    },
+    {
+      "name": "Optimism Mainnet",
+      "rpc": [
+        "https://optimism.llamarpc.com",
+        "https://rpc.ankr.com/optimism",
+        "https://0xrpc.io/op"
+      ],
+      "chainId": 10,
+      "symbol": "ETH",
+      "explorer": "https://optimistic.etherscan.io/tx/"
+    },
+    {
+      "name": "Polygon Mainnet",
+      "rpc": [
+        "https://polygon.llamarpc.com",
+        "https://rpc.ankr.com/polygon",
+        "https://1rpc.io/matic"
+      ],
+      "chainId": 137,
+      "symbol": "POL",
+      "explorer": "https://polygonscan.com/tx/"
+    },
+    {
+      "name": "Story Protocol Mainnet",
+      "rpc": [
+        "https://mainnet.storyrpc.io",
+        "https://lightnode-json-rpc-mainnet-story.grandvalleys.com",
+        "https://evmrpc.story.nodestake.org"
+      ],
+      "chainId": 1514,
+      "symbol": "IP",
+      "explorer": "https://www.storyscan.xyz/tx/"
+    }
+  ]
